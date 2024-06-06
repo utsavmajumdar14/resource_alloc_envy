@@ -1,0 +1,18 @@
+body {
+    background-color: #222;
+    color: #fff;
+}
+
+a:link {
+    color: yellow;
+    text-decoration: none; /* Optional: Removes underline */
+}
+
+a:visited {
+    color: rgb(165, 165, 28);
+    text-decoration: none; /* Optional: Removes underline */
+}
+
+a:hover {
+    color: orange; /* Change color on hover if desired */
+}
